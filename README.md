@@ -1,29 +1,27 @@
 # Título do Projeto
 
-`CURSO`
+`CIÊNCIA DA COMPUTAÇÃO`
 
-`DISCIPLINA`
+`Data Science & Big Data`
 
-`SEMESTRE`
+`4º Período`
 
-[Descrever, em um ou dois parágrafos, o problema investigado, o contexto da pesquisa, a motivação e o objetivo geral do projeto.]
+
 
 ---
 
 ## Integrantes
 
-* Nome completo do aluno 1  
-* Nome completo do aluno 2  
-* Nome completo do aluno 3  
-* Nome completo do aluno 4  
-* Nome completo do aluno 5  
-* Nome completo do aluno 6  
+* Diana Vitória Silva Barbosa
+* Gabriel Sasuke Yamauchi de Souza
+* Paulo Sérgio Martins de Miranda Júnior
+* Ricardo Henrique Barbosa  
 
 ---
 
 ## Orientador
 
-* Nome completo do professor  
+* Diego Roberto Gonçalves de Pontes  
 
 ---
 
