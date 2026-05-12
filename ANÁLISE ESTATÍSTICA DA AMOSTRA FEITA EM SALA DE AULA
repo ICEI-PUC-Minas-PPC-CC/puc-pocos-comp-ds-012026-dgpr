@@ -1,0 +1,27 @@
+Nesta atividade, vocês vão utilizar a base de dados que foi construída em sala de aula com as informações da própria turma.
+
+A proposta é trabalhar todo o processo de análise de dados: entender o problema, definir hipóteses, tratar os dados coletados e analisar os resultados.
+
+A base contém as seguintes variáveis:
+
+- Idade
+- Horas de estudo
+- Horas de sono
+- Horas de trabalho
+- Tempo em tela
+- Média do aluno no curso até o momento
+O foco da atividade é verificar se existe algum padrão ou relação entre essas variáveis e o desempenho acadêmico, considerando a média como referência.
+
+O que deve ser feito
+1. Definir claramente o objetivo da análise.
+2. Identificar a variável resposta e as variáveis explicativas.
+3. Formular hipóteses com base nos dados coletados.
+4. Realizar o tratamento dos dados (padronização, correção, remoção, etc.).
+5. Fazer uma análise descritiva das variáveis.
+6. Analisar a relação entre as variáveis e a média dos alunos.
+7. Apresentar conclusões com base nos resultados encontrados.
+Atenção
+- Os dados foram preenchidos pela própria turma e podem conter inconsistências.
+- O tratamento dos dados faz parte da atividade e deve ser justificado.
+- Nem toda relação observada nos dados significa causa.
+- O mais importante é o processo de análise, não apenas o resultado final.
